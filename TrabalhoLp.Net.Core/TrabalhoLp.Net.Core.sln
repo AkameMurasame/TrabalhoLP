@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhoLp.Net.Core", "TrabalhoLp.Net.Core\TrabalhoLp.Net.Core.csproj", "{9DF620C4-8AEB-42FC-84DC-BAC9692B3EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabalho.Net.Core.Algoritimos", "Trabalho.Net.Core.Algoritimos\Trabalho.Net.Core.Algoritimos.csproj", "{ECCF289A-3EF3-4188-BD11-DFD2CA401727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF620C4-8AEB-42FC-84DC-BAC9692B3EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF620C4-8AEB-42FC-84DC-BAC9692B3EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF620C4-8AEB-42FC-84DC-BAC9692B3EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF620C4-8AEB-42FC-84DC-BAC9692B3EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECCF289A-3EF3-4188-BD11-DFD2CA401727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCF289A-3EF3-4188-BD11-DFD2CA401727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCF289A-3EF3-4188-BD11-DFD2CA401727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCF289A-3EF3-4188-BD11-DFD2CA401727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59E60D07-2058-408A-89B0-CEC55260CA85}
+	EndGlobalSection
+EndGlobal
